@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_ign"
+        android:orderInCategory="100"
+        android:title="Ign"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_techcrunch"
+        android:orderInCategory="100"
+        android:title="Tecch Crunch"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_polygon"
+        android:orderInCategory="100"
+        android:title="Polygon"
+        app:showAsAction="never" />
+</menu>

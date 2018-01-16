@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ign"
+            android:title="IGN" />
+        <item
+            android:id="@+id/nav_techcrunch"
+            android:title="Tech Crunch" />
+        <item
+            android:id="@+id/nav_techradar"
+            android:title="Tech Radar" />
+        <item
+            android:id="@+id/nav_nextweb"
+            android:title="The Next Web" />
+        <item
+            android:id="@+id/nav_polygon"
+            android:title="Polygon" />
+        <item
+            android:id="@+id/nav_recode"
+            android:title="Recode" />
+        <item
+            android:id="@+id/nav_scientist"
+            android:title="New Scientist" />
+    </group>
+
+</menu>
